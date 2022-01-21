@@ -1,0 +1,2 @@
+hi = "Adiooos"
+print(hi)

@@ -1,0 +1,45 @@
+1- Muestre en pantalla el mensaje "Bienvenido".
+
+3- Muestre en pantalla la suma de 100 y 120.
+
+4- Muestre en pantalla el producto de 50 y 51.
+
+5- Guarde en la variable x (entera) el número 23, en la variable y (entera) el número 24, en la variable z (entera) el número 25 y muestre en pantalla la suma de los valores de las tres variables.
+
+6- Guarde en la variable x (entera) el número 10, en la variable y (entera) el número 11, en la variable z (entera) el número 12, calcule su producto y lo guarde en una variable llamada producto, y finalmente muestre en pantalla el valor de la variable producto.
+
+7- Pida al usuario dos números enteros (que se guardarán en las variables a y b) y muestre su suma en pantalla.
+
+8- Pida al usuario dos números enteros (que se guardarán en las variables n1 y n2) y muestre su producto en pantalla.
+
+9- Pida al usuario dos números reales (que se guardarán en las variables dato1 y dato2) y muestre en pantalla el resultado de dividir dato1 entre dato2.
+
+10- Pida al usuario dos números reales (que se guardarán en las variables dato1 y dato2). Si dato2 es cero,deberá mostrar un mensaje de error, y en caso contrario mostrará en pantalla el resultado de dividir dato1 entre dato2.
+
+11- Pida al usuario dos números enteros (que se guardarán en las variables num1 y num2).Si num2 es cero,deberá mostrar un mensaje de error, y en caso contrario mostrará en pantalla el resto de la división de num1 entre num2.
+
+12- Pida al usuario un número entero, diga si es par o impar,y repita todo lo anterior hasta que el número que se introduzca sea 0. (Nota: para saber si un número es par, se mira si el resto de su división entre 2 es 0).
+
+-----------------
+
+13- Pida al usuario veinte números enteros y muestre su suma.
+
+14- Pida al usuario veinte números reales y muestre cual es el mayor de ellos y cual el menor. Ambos deben aparecer con 2 cifras decimales y 5 cifras totales.
+
+15- Pida al usuario un número indefinido de números (mientras se tecleen números que no sean negativos). Después de la introducción de cada número aparecerá en pantalla información sobre el número de datos introducidos y la suma hasta el momento, así­:
+"Has introducido 5 números y su suma es 38"
+
+16- Pida al usuario un número entero y muestre en pantalla sus divisores (exceptuando el 1 y el propio número). Por ejemplo, si se introduce 20, deberí­a aparecer
+2 es divisor de 20
+4 es divisor de 20
+5 es divisor de 20
+10 es divisor de 20
+
+17- Mejora el ejercicio 16 para que avise si el número no tiene divisores, en vez de que la pantalla quede en blanco.
+
+18- Pida al usuario un número entero y una letra, y muestre en pantalla la letra repetida tantas veces como indique el número. Por ejemplo, si el número es 10 y la letra es a, aparecerí­a
+aaaaaaaaaa
+
+19- Pida al usuario un número entero y muestre su tabla de multiplicar.
+
+20- Pida al usuario un número real y diga cuantas cifras enteras tiene (pista: habrá que dividir varias veces entre 10).
